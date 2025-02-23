@@ -50,7 +50,7 @@
 
 ## Endpoints Desejados:
 
-<table border="1">
+<table>
     <tr>
         <th>Endpoint</th>
         <th>Descrição</th>
